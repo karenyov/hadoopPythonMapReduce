@@ -10,3 +10,4 @@ Hadoop Python MapReduce - PUC Minas
 ## Modo de Execução
 Iniciar o server: `python texto.py`
 
+Iniciar os clientes: `python mincemeat.py -p changeme localhost`
