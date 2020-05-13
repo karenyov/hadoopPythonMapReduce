@@ -4,7 +4,7 @@ Hadoop Python MapReduce - PUC Minas
 # Exemplo Contagem de palavras
 
 ## Requisitos
-- Python
+- Python 3
 - Instalar mincemeat via pip `pip install mincemeat`
 
 ## Modo de Execução
