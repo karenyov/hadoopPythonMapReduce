@@ -34,6 +34,6 @@ s.mapfn = mapfn
 s.reducefn = reducefn
 
 results = s.run_server(password = "changeme")
-w = cvs.writer(open("RESULT.csv", "w"))
+w = csv.writer(open("RESULT.csv", "w"))
 for k,v in results.items():
     w.writernow([k, v])
